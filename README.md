@@ -2,8 +2,6 @@
 
 :point_right: Side bar.
 
-&nbps;
-
 <kbd>HTML</kbd>  
 <kbd>CSS</kbd>  
 <kbd>JavaScrupt</kbd>
