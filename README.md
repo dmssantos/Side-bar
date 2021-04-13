@@ -8,4 +8,4 @@
 
 &nbsp;
 
-:link: https://dmssantos.github.io/Side-bar/.
+:link: https://dmssantos.github.io/Side-bar/
